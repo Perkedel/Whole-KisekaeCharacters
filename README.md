@@ -52,9 +52,11 @@ Now you have the single or multi character. fill the image link, metadatas, and 
 
 once you've done that, scroll down outside the editor field. here, you'll see the **Commit changes** area. Fill the title short, apropriate, and relevant. don't forget the description if necessary. tick the dot to Commit it directly to master branch. Click Commit change.
 
-Now, go back to original git, then up there, there's a **Pull requests** tab. Click on it.
+Now, go back your forked git there again, then up there, there's a **Pull requests** tab. Click on it.
 
-Create pull request by pressing that 
+Create pull request by pressing that green button there! Follow GitHub instruction to use this.
+
+After that, we will see and moderate your changes. If it is apropriate, we merge it. **DONE!!!**
 
 ##About license file in this folder
 The license file here only applies to my original characters and others who wanted to licensed it same as mine or similar concept about. It also license this list as.
