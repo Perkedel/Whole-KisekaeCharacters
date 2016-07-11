@@ -7,7 +7,7 @@ Also if you have history of abusal of these allergens, DO NOT abuse this git too
 If you are uncertain about these warnings, please ask our waiters around. They will ready to serve you
 
 ##What's this?
-This is the git that talks about easy listing for usability, known as __library__. This is a git that helps you find your favourite character for use in Kisekae and other Open source 3D or 4D or 5D or whatever `D` CGI thingy that supports it or you made to support it whatever way you do. We have counting list of characters starting by DeviantArt to the far far away beyond proxy (really__?__).
+This is the git that talks about easy listing for usability, known as __library__. This is a git that helps you find your favourite character for use in Kisekae and other Open source 3D or 4D or 5D or whatever `D` CGI thingy that supports it or you made to support it whatever way you do. We have counting list of characters starting by DeviantArt to the far far away beyond proxy (really __?__ ).
 
 YEs, you dude, that using Kisekae. And you make something about it. COmics, striplines, posters, etc. that make people fans of it, even somekind of experiments.
 
@@ -23,6 +23,38 @@ Once you found it use that code bellow the character image to import it to your 
 ##I don't see my character
 Don't worry if you don't see one. simply issue it here and we will find one until we got it. It might takes some time, because we do need to find the source, ask the source and permission, etc. etc. Then we need to build the character picture, fill in and give a nice metadata, tidy it up and done!
 But you can initiatively fork, edit, pull request it which is Duper Awesome. We will merge it if your change is apropriate.
+
+##I want to contribute!
+THank you so much! you can contribute because of course, it's a core of my company!
+
+Simple, just start by making your character you have such as imaginary friend long time ago before you ever deleted it accidentally (you know that girl, TestDisk should come there.).
+
+Then, once you've made it, post it anywhere I can see: DeviantArt, email me, PM me, or create issue (needs GitHub account!). Remember, your character must fits the rule and apropriate.
+
+Momment later, I will update the library and it's there. Oh remember as I said, takes some time! :D
+
+##What about Pull-Merge?
+That's even __better!__ I recomend you to contribute only this way. That way, is the easiest we can do.
+
+Just make sure you have an account of this GitHub, and logged in very well. Don't have one? take some time spare to register it. FREE! (Literally, but basically free, please be understand, you're not gonna to post a big file right?)
+
+Once you've done that, let's click the "**FORK**" button right there. Click it, and you've just copied whole this git to your version. **Don't too much, respect owners!** Here you can do anything to get it merged in my original git.
+
+{*Adding the picture, please read the next headline first for adding the picture.*}
+
+Now, in that the forked git, take the template I supplied bellow there by copying it on that code box. Remember only take it from there otherwise it won't gonna works. Here you have it on your clipboard.
+
+Once you put it, now open up the file, ../ENTER DOOR/BEGIN/LISTS.md
+
+Click it, you'll be in there, the list. Click edit and add something on very bottom of the page with the template you handed it before (the template you've just copied it and put on clipboard).
+
+Now you have the single or multi character. fill the image link, metadatas, and more. The Copyright and License and Creator field is important to identify who made the character.
+
+once you've done that, scroll down outside the editor field. here, you'll see the **Commit changes** area. Fill the title short, apropriate, and relevant. don't forget the description if necessary. tick the dot to Commit it directly to master branch. Click Commit change.
+
+Now, go back to original git, then up there, there's a **Pull requests** tab. Click on it.
+
+Create pull request by pressing that 
 
 ##About license file in this folder
 The license file here only applies to my original characters and others who wanted to licensed it same as mine or similar concept about. It also license this list as.
@@ -64,6 +96,7 @@ Code:
 - Source: [Link here](http://www.example.com "Example source")
 - Description: _Put description here_
 - _Another variables_: _anwflnsbrgsfuoalnerfjklajsd;fjaberwfbuegobadsuotgf_
+- Copyright: _First year-Nowadays year_ (if needed) Company name inc., All Rights Reserved
 - License: __*License here in Bold*__
 ```
 ### Character Brand
@@ -76,6 +109,7 @@ Code:
 - Source: [Link here](http://www.example.com "Example source")
 - Description: _Put description here_
 - _Another variables_: _anwflnsbrgsfuoalnerfjklajsd;fjaberwfbuegobadsuotgf_
+- Copyright: _First year-Nowadays year_ (if needed) Company name inc., All Rights Reserved
 - License: __*License here in Bold*__
 
 ##[Coming soon] Ok this was under construction.
