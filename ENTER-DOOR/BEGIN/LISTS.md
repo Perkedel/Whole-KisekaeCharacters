@@ -41,12 +41,12 @@ Have fun!
 - Hair: bright Black customized #3F3E43 (based on the Kisekae app)
 - Eyes: Red pinky #DF6480 (based on the Kisekae app)
 - Blood Type:A
-- Creator: _the guy I wrote in the credit_
+- Creator: Sakurako Kimino
 - Source: [Wikia article](http://love-live.wikia.com/wiki/Yazawa_Nico "Yazawa Nico based on the article")
 - Description: (On Wikia it says) Yazawa Nico is one of the nine main characters in Love Live!. Despite her childlike stature, she is actually a third year in Otonokizaka High School. Nico was born on July 22. She has black hair tied up in twin-tails and red eyes. Unlike the rest, she wears a pink cardigan on top of her school uniform's shirt, and under her winter uniform's blazer. Her main color is pink. She is a member of BiBi, a sub-unit under μ's. 
 - Body Scale: B 74 (actually 71), W 57, H 79 
 - :thumbsup: Favourite Food: Sweet food (Hint: C6H12O6, sugar, glucose)
 - :thumbsdown: Disliked Food: Spicy food (Hint: Jalapeno, Cabe, Rendang pedas, pepper, sambal)
 - :star: Charm point: Her light skin (lightness scale: 8.9 of 9)
-- Copyright:  _forgot who_ inc., All Rights Reserved
+- Copyright:  Sakurako Kimino and _friends_, All Rights Reserved
 - License: **PROPRIETARY** ~~Oh, s.~~ maybe?
