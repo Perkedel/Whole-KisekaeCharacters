@@ -38,8 +38,8 @@ Have fun!
 - Gender: Female
 - Height: 154 cm
 - Weight: ??? Kg
-- Hair: bright Black customized #3F3E43 (based on the Kisekae app)
-- Eyes: Red pinky #DF6480 (based on the Kisekae app)
+- Hair: Generic Black #3F3E43 (based on the Kisekae app), Tied Twin tails
+- Eyes: Red Scarlet #DF6480 (based on the Kisekae app)
 - Blood Type:A
 - Creator: Sakurako Kimino
 - Source: [Wikia article](http://love-live.wikia.com/wiki/Yazawa_Nico "Yazawa Nico based on the article"); Pochi Kisekae app
