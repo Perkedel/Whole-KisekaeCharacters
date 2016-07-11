@@ -28,7 +28,7 @@ Have fun!
 #**BEGIN RIGHT NOW!!!**
 =======================
 
-##Love Live!, **Muse** not *Musescore*!
+##Love Live!, **μ's** (Muse) not *Musescore*!
 ###Yazawa Nico (This is default character in Kisekae app)
 ![Yazawa Nico](https://github.com/Perkedel/Whole-KisekaeCharacters/raw/master/BACK-STAGE/IMAGES/%5BLove%20Live!%5D%20Yazawa%20Nico.png "One of the μ's member and protagonist of this franchise")
 
