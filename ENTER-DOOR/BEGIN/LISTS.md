@@ -3,7 +3,7 @@ Please read the main README.md on the first page before start. I see you refuse 
 
 Also there may be some errors. If you found it, please write the issue about it immediately and we will as soon as possible to look at it + fix it right now. Please, your issue paper **must be specific and clear**. Give as much as possible true info from the official person to make the problem easy to solve.
 
-#Welcome to the higga bigga library of whole of Kisekae Characters!
+#Welcome to the higga bigga library of WHOLE BUNCH of Kisekae Characters!
 Your place to start making Kisekae by adding, using, and improve your entertaintment needs.
 You'll start by these data that forms by
 ```Markdown
