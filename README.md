@@ -91,9 +91,15 @@ Code:
 ### Character Brand
 ![Character name](http://www.example.com "example image")
 
-`EEXPORT CODE HERE ASDFHLAIEWHFILBALRBGLSHDFBGVJLGDLNHJTHNHBIY`
+`FULL VERSION ALL TICKS ON EEXPORT CODE HERE ASDFHLAIEWHFILBALRBGLSHDFBGVJLGDLNHJTHNHBIY`
 - Name : _name_
 - Birthdate: Jakarta, DD _Month_ YYYY
+- Gender: _Real Gender_ or _What the F_
+- Height: _Float_ or _Integer_ cm
+- Weight: _Float_ or _Integer_ Kg
+- Hair: _Color_ (FFFFFF or whatever format you'd like)
+- Eyes: _Color_ (FFFFFF or whatever format you'd like)
+- Blood Type: O-
 - Creator: _Created by_
 - Source: [Link here](http://www.example.com "Example source")
 - Description: _Put description here_
@@ -104,15 +110,38 @@ Code:
 ### Character Brand
 ![Character name](http://www.example.com "example image")
 
-`EEXPORT CODE HERE ASDFHLAIEWHFILBALRBGLSHDFBGVJLGDLNHJTHNHBIY`
+`FULL VERSION ALL TICKS ON EEXPORT CODE HERE ASDFHLAIEWHFILBALRBGLSHDFBGVJLGDLNHJTHNHBIY`
 - Name : _name_
 - Birthdate: Jakarta, DD _Month_ YYYY
+- Gender: _Real Gender_ or _What the F_
+- Height: _Float_ or _Integer_ cm
+- Weight: _Float_ or _Integer_ Kg
+- Hair: _Color_ (FFFFFF or whatever format you'd like)
+- Eyes: _Color_ (FFFFFF or whatever format you'd like)
+- Blood Type: O-
 - Creator: _Created by_
 - Source: [Link here](http://www.example.com "Example source")
 - Description: _Put description here_
 - _Another variables_: _anwflnsbrgsfuoalnerfjklajsd;fjaberwfbuegobadsuotgf_
 - Copyright: _First year-Nowadays year_ (if needed) Company name inc., All Rights Reserved
 - License: __*License here in Bold*__
+
+##Credits and contributions
+- GitHub - supplies this server of version control. Who don't use GitHub in programming? 
+- DeviantArt - supplies the server for placing the art.
+- Pixiv - this also, in case the contributor(s) also uses it to post their pose.
+- Kakifly and friends- Speaking about K-On, this is the default setting.
+- Sakurako Kimino and friends - Speaking about Love Live!, this is also another default setting.
+- Pochi guy - creator (maybe) and hoster of Kisekae apps. WHy not use HTML5 instead?
+- Crypton Future Media - The one who create voicebank consists of: Hatsune Miku, Kagamine Rin + Kagamine Len, Megurine Luka.
+- Yamaha Corporation - All things music and automotive.
+- Google inc. - All things technologic, Search engine, Operating System, Robotics, etc etc.
+- Ubuntu guys - Oh too many to reffer, Supplies this Duper Awesome Linux Distro to eliminate my slavery clause.
+- Linus Torvalds - Creator of Linux, the only UNIX that well known by every kind and generous people like me.
+- Microsoft Corporation - Here, and shut up. Satisfied?!; Started by the one of the richest guy in the world that makes common Operating System and other technology stuffs which is not bad if you are not doing serious technical stuffs. Also one of their division supplies human mascot which ends in 'tan', 'chan', or whatever it is.
+- Debian guy - even though he died idiotly, this guy supplies the greatest distro before being re-modded by Ubuntu guys.
+- Apple inc. - Alright, you enforced me but I hate to credit it actually!; makes the most unfair price thingy people will stupid of to buy it right now and hey this is the best than the other (the brain excitement lobe activates there only if they used an **expensive** things so it makes illusionally feels that the product is "exciting" and "Duper Awesome" while actually it sucks). We may found our contributor(s) port the Apple related mascots.
+- You all, guys - Contributing something, written this in case you did not written but we'll soon write your name as possible.
 
 ##[Coming soon] Ok this was under construction.
 We are working on to build the listing in this area. stay tuned.
