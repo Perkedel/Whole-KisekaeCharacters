@@ -1,3 +1,8 @@
+#Please read this
+Please read the main README.md on the first page before start. I see you refuse to do it. So if you want to be safe, please take your time to read it. Skipping to read it, may cause even worse tampering! serious!!
+
+Also there may be some errors. If you found it, please write the issue about it immediately and we will as soon as possible to look at it + fix it right now. Please, your issue paper **must be specific and clear**. Give as much as possible true info from the official person to make the problem easy to solve.
+
 #Welcome to the higga bigga library of whole of Kisekae Characters!
 Your place to start making Kisekae by adding, using, and improve your entertaintment needs.
 You'll start by these data that forms by
@@ -52,7 +57,7 @@ Have fun!
 - License: **PROPRIETARY** ~~Oh, s.~~ maybe?
 
 ###Ayaze Eli
-![Ayaze Eli](http://www.example.com "example image")
+![Ayaze Eli](https://github.com/Perkedel/Whole-KisekaeCharacters/raw/master/BACK-STAGE/IMAGES/%5BLove%20Live!%5D%20Ayaze%20Eli.png "Ayaze Eli, the Eli-bomb?")
 
 `FULL VERSION ALL TICKS ON EEXPORT CODE HERE ASDFHLAIEWHFILBALRBGLSHDFBGVJLGDLNHJTHNHBIY`
 - Name : _kanji_ (Ayaze Eli)
@@ -71,7 +76,7 @@ Have fun!
 - License: **PROPRIETARY**
 
 ###Hoshizora Rin
-![Hoshizora Rin](http://www.example.com "example image")
+![Hoshizora Rin](https://github.com/Perkedel/Whole-KisekaeCharacters/raw/master/BACK-STAGE/IMAGES/%5BLove%20Live!%5D%20Hoshizora%20Rin.png "Hoshizora Rin")
 
 `FULL VERSION ALL TICKS ON EEXPORT CODE HERE ASDFHLAIEWHFILBALRBGLSHDFBGVJLGDLNHJTHNHBIY`
 - Name : _kanji_ (Hoshizora Rin)
@@ -90,7 +95,7 @@ Have fun!
 - License: **PROPRIETARY**
 
 ###Koizumi Hanayo
-![Koizumi Hanayo](http://www.example.com "example image")
+![Koizumi Hanayo](https://github.com/Perkedel/Whole-KisekaeCharacters/raw/master/BACK-STAGE/IMAGES/%5BLove%20Live!%5D%20Koizumi%20Hanayo.png "Koizumi Hanayo")
 
 `FULL VERSION ALL TICKS ON EEXPORT CODE HERE ASDFHLAIEWHFILBALRBGLSHDFBGVJLGDLNHJTHNHBIY`
 - Name : _kanji_ (Koizumi Hanayo)
@@ -109,7 +114,7 @@ Have fun!
 - License: **PROPRIETARY**
 
 ###Kousaka Honoka
-![Kousaka Honoka](http://www.example.com "example image")
+![Kousaka Honoka](https://github.com/Perkedel/Whole-KisekaeCharacters/raw/master/BACK-STAGE/IMAGES/%5BLove%20Live!%5D%20Kousaka%20Honoka.png "Kousaka Honoka")
 
 `FULL VERSION ALL TICKS ON EEXPORT CODE HERE ASDFHLAIEWHFILBALRBGLSHDFBGVJLGDLNHJTHNHBIY`
 - Name : _kanji_ (Kousaka Honoka)
@@ -128,7 +133,7 @@ Have fun!
 - License: **PROPRIETARY**
 
 ### Minami Kotori
-![Minami Kotori](http://www.example.com "example image")
+![Minami Kotori](https://github.com/Perkedel/Whole-KisekaeCharacters/raw/master/BACK-STAGE/IMAGES/%5BLove%20Live!%5D%20Minami%20Kotori.png "Minami Kotori")
 
 `FULL VERSION ALL TICKS ON EEXPORT CODE HERE ASDFHLAIEWHFILBALRBGLSHDFBGVJLGDLNHJTHNHBIY`
 - Name : _kanji_ (Minami Kotori)
@@ -147,7 +152,7 @@ Have fun!
 - License: **PROPRIETARY**
 
 ### Nishikino Maki
-![Nishikino Maki](http://www.example.com "example image")
+![Nishikino Maki](https://github.com/Perkedel/Whole-KisekaeCharacters/raw/master/BACK-STAGE/IMAGES/%5BLove%20Live!%5D%20Nishikino%20Maki.png "Nishikino Maki")
 
 `FULL VERSION ALL TICKS ON EEXPORT CODE HERE ASDFHLAIEWHFILBALRBGLSHDFBGVJLGDLNHJTHNHBIY`
 - Name : _kanji_ (Nishikino Maki)
@@ -166,7 +171,7 @@ Have fun!
 - License: **PROPRIETARY**
 
 ### Sonoda Umi
-![Sonoda Umi](http://www.example.com "example image")
+![Sonoda Umi](https://github.com/Perkedel/Whole-KisekaeCharacters/raw/master/BACK-STAGE/IMAGES/%5BLove%20Live!%5D%20Sonoda%20Umi.png "Sonoda Umi")
 
 `FULL VERSION ALL TICKS ON EEXPORT CODE HERE ASDFHLAIEWHFILBALRBGLSHDFBGVJLGDLNHJTHNHBIY`
 - Name : _kanji_ (Sonoda Umi)
@@ -185,7 +190,7 @@ Have fun!
 - License: **PROPRIETARY**
 
 ### Toujou Nozomi
-![Toujou Nozomi](http://www.example.com "example image")
+![Toujou Nozomi](https://github.com/Perkedel/Whole-KisekaeCharacters/raw/master/BACK-STAGE/IMAGES/%5BLove%20Live!%5D%20Toujou%20Nozomi.png "Toujou Nozomi")
 
 `FULL VERSION ALL TICKS ON EEXPORT CODE HERE ASDFHLAIEWHFILBALRBGLSHDFBGVJLGDLNHJTHNHBIY`
 - Name : _kanji_ (Toujou Nozomi)
